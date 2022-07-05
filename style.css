@@ -16,6 +16,7 @@ section {
 }
 
 .half-width {
+<<<<<<< HEAD
 
     width: 50%;
     padding-left: 12%;
@@ -24,6 +25,15 @@ section {
 .half-width image {
     width: 30%;
     padding-left: 25%;
+=======
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width image {
+    width: 80%;
+    padding-left: 15%;
+>>>>>>> 99ef9ccd5f6d12663bfd160696fe68db98c554a1
 }
 
 .link-button {
@@ -37,10 +47,13 @@ section {
 .top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+<<<<<<< HEAD
 }
 
 .dream-big {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+=======
+>>>>>>> 99ef9ccd5f6d12663bfd160696fe68db98c554a1
 }
